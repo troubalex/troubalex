@@ -2,6 +2,7 @@
   position: relative;
   padding: calc(var(--spacing-sitepadding-block)*1.6) var(--spacing-sitepadding-inline);
   background: var(--background-gradient-header);
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
   gap: 1rem;
